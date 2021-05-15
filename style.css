@@ -1,0 +1,12 @@
+.main {
+background: var(--white);
+width: 35rem;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+border: 0.1rem solid rgba(var(--border-color), 0.5);
+padding: 1.5rem 4rem;
+margin-top: 4rem;
+margin-bottom: 2rem;
+}
